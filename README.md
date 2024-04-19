@@ -3,10 +3,10 @@
 Welcome to my data portfolio! Here, you can learn about my favorite projects from my time studying data science. 
 
 ## 📚 Table of Contents
-- [R](https://github.com/r-kish/Portfolio?tab=readme-ov-file#--r)
-- [Python]((https://github.com/r-kish/Portfolio?tab=readme-ov-file#--python))
-- [SQL and Tableau](SQL-/-Tableau)
-- [Java](Java)
+- R
+- Python
+- SQL / Tableau
+- Java
   
 
 # [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)  R
