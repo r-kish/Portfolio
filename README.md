@@ -3,8 +3,8 @@
 Welcome to my data portfolio! Here, you can learn about my favorite projects from my time studying data science. 
 
 ## 📚 Table of Contents
-- [R](R)
-- [Python](Python)
+- [R](https://github.com/r-kish/Portfolio?tab=readme-ov-file#--r)
+- [Python]((https://github.com/r-kish/Portfolio?tab=readme-ov-file#--python))
 - [SQL and Tableau](SQL-/-Tableau)
 - [Java](Java)
   
