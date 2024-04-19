@@ -1,4 +1,4 @@
-# Richard's Portfolio
+# Richard's Portfolio 
 
 Welcome to my data portfolio! Here, you can learn about my favorite projects from my time studying data science. 
 
