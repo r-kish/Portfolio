@@ -5,7 +5,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 ## 📚 Table of Contents
 - [R](#r)
 - [Python](#python)
-- [SQL / Tableau](#sql-tableau)
+- [SQL / Tableau](#sql-/-tableau)
 - [Java](#java)
   
 
@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 ***
 
-# SQL / Tableau
+# [![My Skills](https://skillicons.dev/icons?i=sql.tableau)](https://skillicons.dev)SQL / Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
