@@ -9,7 +9,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 - [Java](#java)
   
 
-# [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev) R
+# R [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 
 | Project Link | Areas of Analysis | Tools & Packages | Project Description | 
 |---|---|---|---|
@@ -19,7 +19,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 ***
 
-# [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) Python
+# Python [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 | Project Link | Area | Tools & Packages | Project Description | 
 |---|---|---|---|
@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 ***
 
-# [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) SQL and Tableau
+# SQL and Tableau [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
