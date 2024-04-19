@@ -9,7 +9,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 - [Java](#java)
   
 
-# ![R](https://uopsych-r-bootcamp-2020.netlify.app/slides/images/rstudio_logo.png) R
+# [![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev) R
 
 | Project Link | Areas of Analysis | Tools & Packages | Project Description | 
 |---|---|---|---|
