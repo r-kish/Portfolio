@@ -3,10 +3,10 @@
 Welcome to my data portfolio! Here, you can learn about my favorite projects from my time studying data science. 
 
 ## 📚 Table of Contents
-- [R]
-- [Python]
-- [SQL and Tableau]
-- [Java]
+- [R](R)
+- [Python](Python)
+- [SQL and Tableau](SQL-/-Tableau)
+- [Java](Java)
   
 
 # [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)  R
