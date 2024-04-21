@@ -25,7 +25,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 | Project Link | Area | Tools & Packages | Project Description | 
 |---|---|---|---|
-| 📈 [Cryptocurrency API Automation](https://github.com/r-kish/Crypto-API-Automation) | Data analysis, ETL, automation | Matplotlib, Seaborn | Automated real-time extraction of cryptocurrency data from [CoinMarketCap](https://coinmarketcap.com). I analyzed 20 cryptocurrencies to find how their value changed over a series of time intervals to find which ones were growing, and which ones shrinking. I also individually analyzed Bitcoin and Ethereum to see how their values fluctuated over the course of 10 minutes. | 
+| 📈 [Cryptocurrency API Automation](https://github.com/r-kish/Crypto-API-Automation) | Data analysis, ETL, automation | Pandas, Matplotlib, Seaborn | Automated real-time extraction of cryptocurrency data from [CoinMarketCap](https://coinmarketcap.com). I analyzed 20 cryptocurrencies to find how their value changed over a series of time intervals to find which ones were growing, and which ones shrinking. I also individually analyzed Bitcoin and Ethereum to see how their values fluctuated over the course of 10 minutes. | 
 
 ***
 
