@@ -43,7 +43,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 | Project Link | Area | Tools & Packages | Project Description |   
 |---|---|---|---|
-| 📦 [Shut the Box Game](https://github.com/r-kish/Shut-The-Box-Game) | Programming | Java | I re-created the game of Shut the Box as a Java program. The game is programmed with error detection to account for any wrong/illegal entries by the player. |
+| 📦 [Shut the Box Game](https://github.com/r-kish/Shut-The-Box-Game) | Programming | Java | I re-created the game of Shut the Box as a Java program using arrays and logic. The game is programmed with error detection to account for any wrong/illegal entries by the player. |
 | 🪨📄✂️ [Rock Paper Scissors LAN Edition](https://github.com/r-kish/Rock-Paper-Scissors-LAN) | Programming, Server/Client | Java util packages, JavaFX | For the capstone project of my computer science degree, I re-created the game of Rock-Paper-Scissors as a multiplayer program in Java. The game relies on a server, where two clients can connect and play against each other. |  
 
 ***
