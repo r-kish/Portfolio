@@ -30,7 +30,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 ***
 
-# [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) <img width = 35, src = "https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png">  SQL / Tableau
+# [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) SQL / <img width = 50, src = "https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"> Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
