@@ -57,7 +57,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 ***
 
-# <img width = 35, src = "https://github.com/sempostma/office365-icons/blob/master/png/512/excel.png"> Excel and Other
+# <img width = 45, src = "https://github.com/sempostma/office365-icons/blob/master/png/512/excel.png"> Excel and Other
 
 | Project Link | Area | Tools & Packages | Project Description |   
 |---|---|---|---|
