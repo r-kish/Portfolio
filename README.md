@@ -7,7 +7,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 - Python
 - SQL / Tableau
 - Java
-- Other
+- Power BI and Other
   
 
 # [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)  R
@@ -52,5 +52,6 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 | Project Link | Area | Tools & Packages | Project Description |   
 |---|---|---|---|
+| 🧑‍💻 [Data Professional Survey Analysis](https://github.com/r-kish/Data-Professional-Survey-Analysis) | Data Analysis | Microsoft Power BI | This basic project explores survey results from data professionals through an interactive dashboard using Power BI. Find out what people's favorite programming language is, or how difficult they found it was to break into data analysis!|
 | 👨‍🏫 [Absent / Tardy Dashboard](https://github.com/r-kish/Absent-Tardy-Dashboard) | Data Analysis | Excel | The goal of this dashboard was to create a concise dashboard to be used by upper management of a vocational school in order to monitor the absence/tardy behavior of the entire student body. All data has been anonymized, and any sensitive data has been removed. |
 | 🌐 [Lordville Historical Society Website](https://www.lordville.net) | Website Design, e-Commerce, Historical Preservation | GIS, HTML, Google Sites, Stripe, Ecwid | The Lordville Historical Society was created by me and Keo Kirschner with the goal of unearthing and preserving the history of Lordville, NY, as well as Equinunk, Stockport, and the Upper Delaware River Valley. Our online shop, powered by Stripe and Ecwid, showcases our [maps of historic sites and structures](https://www.lordville.net/cartography/infographic-maps) for the area-- all of which were created using GIS and historical data. |  
