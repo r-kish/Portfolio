@@ -40,7 +40,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 ***
 
-# <img width = 50, src = "https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"> Microsoft Power BI
+# <img width = 25, src = "https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"> Microsoft Power BI
 
 | Project Link | Area | Tools & Packages | Project Description |   
 |---|---|---|---|
