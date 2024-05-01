@@ -7,7 +7,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 - Python
 - SQL / Tableau
 - Java
-- Power BI and Other
+- Microsoft Power BI and Other
   
 
 # [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)  R
@@ -48,7 +48,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 ***
 
-# Other
+# Microsoft Power BI and Other
 
 | Project Link | Area | Tools & Packages | Project Description |   
 |---|---|---|---|
