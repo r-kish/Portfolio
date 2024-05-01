@@ -6,8 +6,9 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 - R
 - Python
 - SQL / Tableau
+- Microsoft Power BI
 - Java
-- Microsoft Power BI and Other
+- Other
   
 
 # [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)  R
@@ -36,6 +37,14 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 | 📊 [e-Commerce Sales Report](https://github.com/r-kish/eCommerce-Sales-Dashboard) | An online shop owner allowed me to use their yearly sales reports from eBay, Poshmark, and Mercari to conduct data analysis in order to give them insights on their online sales and their customers' behaviors. Data cleaning and transformation was done in SQL, while visualizations were built in Tableau and compiled into an interactive dashboard. | [Dashboard](https://public.tableau.com/app/profile/richard.kish/viz/2023eCommerceSalesDashboard/Dashboard1) |
 | 🦠 [COVID-19 Analysis](https://github.com/r-kish/COVID19-Analysis) | Using data derived from [Our World in Data](https://ourworldindata.org/coronavirus), I extracted data from 2020-2023, and cleaned it using SQL. Furthermore, I made several SQL queries to obtain specific dataframes that were to be visualized. After making these visualizations in Tableau, I pieced them all together into an interactive dashboard. | [Dashboard](https://public.tableau.com/app/profile/richard.kish/viz/SQLCovidDashboard_17107162902290/Dashboard1) |
 | 🏡 [Nashville Metropolitan Housing Data Cleaning](https://github.com/r-kish/SQL-Cleaning) | I utilized SQL to clean and organize public data detailing housing in the Nashville, TN metropolitan area. Missing information is filled in when possible, duplicates removed via CTE, and the addresses for each property were separated into state, city, and street address. | SQL Only - no dashboard |
+
+***
+
+# <img width = 50, src = "https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"> Microsoft Power BI
+
+| Project Link | Area | Tools & Packages | Project Description |   
+|---|---|---|---|
+| 🧑‍💻 [Data Professional Survey Analysis](https://github.com/r-kish/Data-Professional-Survey-Analysis) | Data Analysis | Microsoft Power BI | This basic project explores survey results from data professionals through an interactive dashboard using Power BI. Find out what people's favorite programming language is, or how difficult they found it was to break into data analysis!|
 
 ***
 
