@@ -8,7 +8,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 - SQL / Tableau
 - Microsoft Power BI
 - Java
-- Other
+- Excel and Other
   
 
 # [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)  R
@@ -30,7 +30,7 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 ***
 
-# [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  SQL / Tableau
+# [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) <img width = 35, src = "https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png">  SQL / Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
@@ -57,10 +57,9 @@ Welcome to my data portfolio! Here, you can learn about my favorite projects fro
 
 ***
 
-# Microsoft Power BI and Other
+# <img width = 35, src = "https://github.com/sempostma/office365-icons/blob/master/png/512/excel.png"> Excel and Other
 
 | Project Link | Area | Tools & Packages | Project Description |   
 |---|---|---|---|
-| 🧑‍💻 [Data Professional Survey Analysis](https://github.com/r-kish/Data-Professional-Survey-Analysis) | Data Analysis | Microsoft Power BI | This basic project explores survey results from data professionals through an interactive dashboard using Power BI. Find out what people's favorite programming language is, or how difficult they found it was to break into data analysis!|
 | 👨‍🏫 [Absent / Tardy Dashboard](https://github.com/r-kish/Absent-Tardy-Dashboard) | Data Analysis | Excel | The goal of this dashboard was to create a concise dashboard to be used by upper management of a vocational school in order to monitor the absence/tardy behavior of the entire student body. All data has been anonymized, and any sensitive data has been removed. |
 | 🌐 [Lordville Historical Society Website](https://www.lordville.net) | Website Design, e-Commerce, Historical Preservation | GIS, HTML, Google Sites, Stripe, Ecwid | The Lordville Historical Society was created by me and Keo Kirschner with the goal of unearthing and preserving the history of Lordville, NY, as well as Equinunk, Stockport, and the Upper Delaware River Valley. Our online shop, powered by Stripe and Ecwid, showcases our [maps of historic sites and structures](https://www.lordville.net/cartography/infographic-maps) for the area-- all of which were created using GIS and historical data. |  
